@@ -1,0 +1,16 @@
+.env
+# Python virtual environment and cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtualenv and Pipenv directories
+env/
+venv/
+.Python
+pip-log.txt
+
+# MacOS system files
+.DS_Store
