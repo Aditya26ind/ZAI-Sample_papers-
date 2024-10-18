@@ -29,8 +29,8 @@ Before setting up and running this application, ensure you have the following in
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sample-paper-extraction.git
-cd sample-paper-extraction
+git clone https://github.com/Aditya26ind/ZAI-Sample_papers-.git
+cd ZAI-Sample_papers
 
 #how to run using docker
 
